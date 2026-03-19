@@ -58,7 +58,7 @@ Multi-tenant platform for workshops, ticketing, payments, and communications in 
 - Integrated **Huawei OBS** and **CSV/Excel data import** pipelines
 
 **Phase 2 — Facilities Management ERP** *(May 2025 – Feb 2026)*
-- Built the complete **sales pipeline**: quotations → orders → invoices → returns (100+ commits)
+- Built the complete **sales pipeline**: quotations → orders → invoices → returns
 - Developed the **accounting engine**: journal entries, notices, approval workflows
 - Created **financial reports** with PDF export: account statements, income statements, cash flow
 - Implemented **inventory flows**: assembly/disassembly, stock tracking, adjustment reports
