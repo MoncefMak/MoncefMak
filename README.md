@@ -35,7 +35,7 @@
 
 Multi-tenant platform for workshops, ticketing, payments, and communications in Saudi Arabia. I own 45% of the codebase.
 
-- Migrated payments through **3 providers** (PayLink → Moyasar → MyFatoorah) — idempotent webhook handlers with HMAC-SHA256 verification, zero data loss
+- Migrated payments through **3 providers** (PayLink → Moyasar → MyFatoorah) — idempotent webhook
 - Built a full **WhatsApp Cloud API** integration: template management with Meta auto-sync, real-time inbox, message history, rate limiting
 - Eliminated **N+1 queries across 15+ views** — reduced critical page queries from ~40 to ~1
 - Designed **multi-tenant isolation** with RBAC permissions, company-scoped data, and safe user-merge across tenants
